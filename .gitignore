@@ -62,5 +62,5 @@ target/
 # Notebook Checkpoints
 .ipynb_checkpoints/
 
-dataframes/
-raw_data/
+dataframes/*.h5
+raw_data/*.json
