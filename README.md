@@ -1,13 +1,11 @@
 # COMP 6321 Machine Learning Project - Group 18
 Recommender system for spotify 1M playlist dataset using k-NN and NeuMF models
 
-## Dependencies
+## Main Dependencies
 * Pytorch
 * Pandas
-* Scipy
+* Scikit learn
 * Numpy
-* tqdm
-
 
 ## Folder Structure
 ```
